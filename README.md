@@ -1,30 +1,20 @@
-Consumer Credit Card Spend Analysis
+ Credit Card Consumer 
 Description
 This project uses SQL to analyze Consumer Credit Card usage data. The goal of the project is to answer a set of questions about credit card usage and consumer spending habits. The results of the SQL queries can be found in the analysis.sql file.
 
-Installation
-To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
+
 
 Create a database.
 Create tables using the schema diagram provided below.
 Import csv files provided in the dataset folder.
 Your database is ready, now practice your querying skills 👍
-Note: If you are using MySQL then restore the backup files of the database and save yourself some time.
 
-Schema Diagram
-Screenshot_1
 
-Database and Tools
-MySQL
-MySQL Workbench 8.0
-Credits
-This dataset was downloaded from Kaggle click here to download.
 
-License
+
 You can use this dataset to build your own project and practice your querying skills.
 
-Badges
-mysql Kaggle
+
 
 Questions Answered
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
